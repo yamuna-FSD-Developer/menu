@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    height: 800px;
+    background-image: url(https://goodmockups.com/wp-content/uploads/2021/06/Free-Vertical-Menu-Mockup-PSD.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-y: center;
+    background-position-x: center;
+  }
+
+#form {
+    background-color: rgb(74, 78, 78);
+    width: 600px; 
+           padding: 20px;
+           border: 1px solid #ccc;
+           border-radius: 5px;
+           color: palevioletred;
+  }
+  #pincode{
+
+    display: flex;
+    
+}
+#firstName{
+    display: flex;
+}
+#lastName{
+    display:flex;
+}
+#gender{
+    display:flex
+}
+#address{
+    display: flex;
+}
+#state{
+    display: flex;
+}
+#country{
+    display: flex;
+}
+#checkbox{
+    display: flex;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+  table {
+    width: 600px; 
+    border: 5px solid #070202;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: bisque;
+  }
+
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
