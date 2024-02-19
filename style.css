@@ -2,9 +2,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    /* height: 100vh; */
     margin: 0;
-    height: 800px;
+    /* height: 800px; */
     background-image: url(https://goodmockups.com/wp-content/uploads/2021/06/Free-Vertical-Menu-Mockup-PSD.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
